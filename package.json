@@ -1,0 +1,25 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "MySQL Employee Tracker",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PDB21/Employee-tracker.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/PDB21/Employee-tracker/issues"
+    },
+    "homepage": "https://github.com/PDB21/Employee-tracker#readme",
+    "dependencies": {
+      "inquirer": "^7.3.3",
+      "mysql": "^2.18.1"
+    }
+  }
